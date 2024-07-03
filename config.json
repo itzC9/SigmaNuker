@@ -1,19 +1,19 @@
 {
-    "TOKEN": "MTAyNzI2MzE0ODA3MzQyNjk5NQ.GDuyiS.QAV0na1noTJ3VxQ5lydNDpY2JIEPliEp7dbrNo",
+    "TOKEN": "MTI1NzcxMDkyNTY2Mjc4NTU5Ng.GvbIt0.P8qbApby7XwSlHhHUYEiRzaSniuOZ-nJbGAYxk",
 
 
     "PROXIES": false,
     "SPAM_PRN": true,
 
 
-    "WEBHOOK_NAME": "bad prices",
+    "WEBHOOK_NAME": "Terminator",
     "WEBHOOK_PROFILE_PIC": "https://cdn.discordapp.com/attachments/1025650157326450708/1056569437899210863/719BC2BF-AD90-4B23-9CB7-D9CAF3CDBE7E.jpg",
 
     
-    "MESSAGE": "@everyone discord.gg/batch https://github.com/WebUwU/SigmaNuker",
-    "AMMOUNT_OF_CHANNELS": 2,
-    "MESSAGES_PER_CHANNEL": 2,
-    "CHANNEL_NAME": "bad",
+    "MESSAGE": "@everyone discord.gg/batch GET NUKED! 🤡TeamC9🤡 - WebUwU Nuker",
+    "AMMOUNT_OF_CHANNELS": 350,
+    "MESSAGES_PER_CHANNEL": 240,
+    "CHANNEL_NAME": "NuKed-By-Unknown",
 
 
     "Delete_Roles": true,
